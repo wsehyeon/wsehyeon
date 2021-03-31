@@ -15,7 +15,7 @@ C Piscine
 [![swang's 42 stats](https://badge42.herokuapp.com/api/stats/swang?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 -->
 
-[![swang's 42 stats](https://badge42.herokuapp.com/api/stats/swang)](https://github.com/JaeSeoKim/badge42)
+[![swang's 42 stats](https://badge42.herokuapp.com/api/stats/swang?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 circle|42 Project Name|Score Badge
 :----:|:--------:|:----------:
 0|Libft| [![swang's 42Project Score](https://badge42.herokuapp.com/api/project/swang/Libft)](https://github.com/JaeSeoKim/badge42)
