@@ -21,7 +21,7 @@ circle|42 Project Name|Score Badge
 0|Libft| [![swang's 42Project Score](https://badge42.herokuapp.com/api/project/swang/Libft)](https://github.com/JaeSeoKim/badge42)
 1|get_next_line| [![swang's 42Project Score](https://badge42.herokuapp.com/api/project/swang/get_next_line)](https://github.com/JaeSeoKim/badge42)|
 1|netwhat| [![swang's 42Project Score](https://badge42.herokuapp.com/api/project/swang/netwhat)](https://github.com/JaeSeoKim/badge42)|
-1|ft_printf||
+1|ft_printf|[![swang's 42Project Score](https://badge42.herokuapp.com/api/project/swang/ft_printf)](https://github.com/JaeSeoKim/badge42)|
 
 <!--
 add project score
