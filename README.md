@@ -22,7 +22,9 @@ circle|42 Project Name|Score Badge
 1|get_next_line| [![swang's 42Project Score](https://badge42.herokuapp.com/api/project/swang/get_next_line)](https://github.com/JaeSeoKim/badge42)|
 1|netwhat| [![swang's 42Project Score](https://badge42.herokuapp.com/api/project/swang/netwhat)](https://github.com/JaeSeoKim/badge42)|
 1|ft_printf|[![swang's 42Project Score](https://badge42.herokuapp.com/api/project/swang/ft_printf)](https://github.com/JaeSeoKim/badge42)|
-
+2|push_swap|[![swang's 42Project Score](https://badge42.herokuapp.com/api/project/swang/push_swap)](https://github.com/JaeSeoKim/badge42)
+2|minitalk|[![swang's 42Project Score](https://badge42.herokuapp.com/api/project/swang/minitalk)](https://github.com/JaeSeoKim/badge42)
+2|so_long|[![swang's 42Project Score](https://badge42.herokuapp.com/api/project/swang/so_long)](https://github.com/JaeSeoKim/badge42)
 <!--
 add project score
 [![swang's 42Project Score](https://badge42.herokuapp.com/api/project/"intra_id"/"project_name")](https://github.com/JaeSeoKim/badge42)
