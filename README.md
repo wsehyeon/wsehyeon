@@ -26,6 +26,9 @@ circle|42 Project Name|Score Badge
 2|push_swap|[![swang's 42Project Score](https://badge42.herokuapp.com/api/project/swang/push_swap)](https://github.com/JaeSeoKim/badge42)
 2|so_long|[![swang's 42Project Score](https://badge42.herokuapp.com/api/project/swang/so_long)](https://github.com/JaeSeoKim/badge42)
 2|pipex|[![swang's 42Project Score](https://badge42.herokuapp.com/api/project/swang/pipex)](https://github.com/JaeSeoKim/badge42)
+3|philosophers|[![swang's 42Project Score](https://badge42.herokuapp.com/api/project/swang/philosophers)](https://github.com/JaeSeoKim/badge42)
+3|minishell|[![swang's 42Project Score](https://badge42.herokuapp.com/api/project/swang/minishell)](https://github.com/JaeSeoKim/badge42)
+
 
 <!--
 add project score
