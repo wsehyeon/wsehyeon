@@ -22,7 +22,7 @@ exam|rank 03|![swang's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/
 3|[minishell](https://github.com/42swang/minishell)|[![swang's 42 minishell Score](https://badge42.vercel.app/api/v2/cl26vp3pt002509l461xfewj8/project/2403943)](https://github.com/42swang/minishell)
 4|miniRT|[![swang's 42 miniRT Score](https://badge42.vercel.app/api/v2/cl26vp3pt002509l461xfewj8/project/2496906)](https://github.com/JaeSeoKim/badge42)
 4|[CPP module](https://github.com/42swang/cpp_module)|[![swang's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl26vp3pt002509l461xfewj8/project/2557671)](https://github.com/42swang/cpp_module)|
-5|ft_irc|[![swang's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl26vp3pt002509l461xfewj8/project/2583195)](https://github.com/42swang/ft_irc_team.git)
+5|[ft_irc](https://github.com/42swang/ft_irc_team/wiki)|[![swang's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl26vp3pt002509l461xfewj8/project/2583195)](https://github.com/42swang/ft_irc_team.git)
 5|Inception|![swang's 42 Inception Score](https://badge42.vercel.app/api/v2/cl26vp3pt002509l461xfewj8/project/2558693)
 5|ft_container|[![swang's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl26vp3pt002509l461xfewj8/project/2558694)](https://github.com/JaeSeoKim/badge42)|
 
