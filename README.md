@@ -7,7 +7,7 @@
 
 [![swang's 42 stats](https://badge42.vercel.app/api/v2/cl26vp3pt002509l461xfewj8/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
 
-circle|42 Project Name|Score Badge
+<!-- circle|42 Project Name|Score Badge
 :----:|:--------:|:----------:
 0|Libft|[![swang's 42 Libft Score](https://badge42.vercel.app/api/v2/cl26vp3pt002509l461xfewj8/project/2060555)](https://github.com/42swang/Libft)|
 1|get_next_line|[![swang's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl26vp3pt002509l461xfewj8/project/2086711)](https://github.com/42swang/get_next_line)|
@@ -25,7 +25,7 @@ exam|rank 03|![swang's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/
 5|ft_irc|[![swang's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl26vp3pt002509l461xfewj8/project/2583195)](https://github.com/42swang/ft_irc_team.git)
 5|Inception|![swang's 42 Inception Score](https://badge42.vercel.app/api/v2/cl26vp3pt002509l461xfewj8/project/2558693)
 5|ft_container|[![swang's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl26vp3pt002509l461xfewj8/project/2558694)](https://github.com/JaeSeoKim/badge42)|
-
+ -->
 
 
 <!--
