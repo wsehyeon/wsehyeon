@@ -3,9 +3,11 @@
 [![Solved.ac 42swang](http://mazassumnida.wtf/api/mini/generate_badge?boj=swang)](https://solved.ac/swang)
 
 ---
-[![Solved.ac 42swang](http://mazassumnida.wtf/api/v2/generate_badge?boj=swang)](https://solved.ac/swang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsehyeon&layout=compact&hide=objective-c,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
-[![swang's 42 stats](https://badge42.vercel.app/api/v2/cl26vp3pt002509l461xfewj8/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+<!-- [![Solved.ac 42swang](http://mazassumnida.wtf/api/v2/generate_badge?boj=swang)](https://solved.ac/swang) -->
+
+<!-- [![swang's 42 stats](https://badge42.vercel.app/api/v2/cl26vp3pt002509l461xfewj8/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42) -->
 
 <!-- circle|42 Project Name|Score Badge
 :----:|:--------:|:----------:
