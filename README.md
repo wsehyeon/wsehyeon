@@ -1,9 +1,9 @@
 #### Hi there 👋 
 ![42](https://badgen.net/badge/Seoul/swang/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-[![Solved.ac 42swang](http://mazassumnida.wtf/api/mini/generate_badge?boj=swang)](https://solved.ac/swang)
+<!-- [![Solved.ac 42swang](http://mazassumnida.wtf/api/mini/generate_badge?boj=swang)](https://solved.ac/swang) -->
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsehyeon&layout=compact&hide=objective-c,makefile)](https://github.com/anuraghazra/github-readme-stats)
+<!-- --- -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsehyeon&layout=compact&hide=objective-c,makefile)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Solved.ac 42swang](http://mazassumnida.wtf/api/v2/generate_badge?boj=swang)](https://solved.ac/swang) -->
 
